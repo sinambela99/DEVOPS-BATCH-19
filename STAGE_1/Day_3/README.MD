@@ -7,6 +7,9 @@ Jadi, jika ada yang ingin kembali melihat atau mengubah bagian tertentu, kalian 
 Ini membuat bekerja bersama menjadi lebih terorganisir dan memudahkan untuk berkolaborasi dalam proyek pengembangan perangkat lunak.
 
 
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/image.png?raw=true)
+
+
 Contoh beberapa command dari git:
 
 
@@ -101,3 +104,15 @@ git rebase
 
     Mengubah sejarah commit dengan memindahkan commit ke tempat lain. (git rebase <nama-branch>)
     Menyatukan commit dengan menggunakan rebase interaktif. (git rebase -i <commit-hash>)
+
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/Screenshot%20from%202023-11-24%2000-30-10.png?raw=true)
+
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/Screenshot%20from%202023-11-24%2000-30-18.png?raw=true)
+
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/Screenshot%20from%202023-11-24%2000-30-30.png?raw=true)
+
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/Screenshot%20from%202023-11-24%2000-31-24.png?raw=true)
+
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/Screenshot%20from%202023-11-24%2000-32-24.png?raw=true)
+
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/Screenshots%20Day%203/Screenshot%20from%202023-11-24%2000-36-45.png?raw=true)
