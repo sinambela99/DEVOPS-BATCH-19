@@ -37,7 +37,7 @@ Manfaat DevOps:
 
 
 Cara melakukan installasi ubuntu server
-Sebelum melakukan installasi kita harus mengunduh vmware dan ubuntu server untuk vmware berikut ini adalah link downloadnya: https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1750&productId=1377&rPId=111473, 
+Sebelum melakukan installasi kita harus mengunduh vmware dan ubuntu server , untuk vmware berikut ini adalah link downloadnya: https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1750&productId=1377&rPId=111473, 
 dan untuk ubuntu server berikut adalah linknya: https://ubuntu.com/download/server
 Setelah melakukan pengunduhan maka lakukan installasi,Kemudia buka vmware tersebut,
 
