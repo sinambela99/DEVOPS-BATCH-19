@@ -1,5 +1,5 @@
 Apa itu DevOps?
-DevOps adalah singkatan dari Development (pengembangan) dan Operations (operasi). DevOps adalah suatu pendekatan atau budaya dalam pengembangan perangkat lunak yang menekankan kolaborasi dan komunikasi antara tim pengembangan (developer) dan tim operasional (operations). Tujuan utamanya adalah untuk meningkatkan efisiensi dan responsifitas dalam pengembangan, meminimalisirkan human errorr, pengujian, dan pengelolaan perangkat lunak.
+DevOps singkatan dari Development (pengembangan) dan Operations (operasi). DevOps adalah suatu pendekatan atau budaya dalam pengembangan perangkat lunak yang menekankan kolaborasi dan komunikasi antara tim pengembangan (developer) dan tim operasional (operations). Tujuan utamanya adalah untuk meningkatkan efisiensi dan responsifitas dalam pengembangan, meminimalisirkan human errorr, pengujian, dan pengelolaan perangkat lunak.
 
 Pilar-pilar Utama DevOps:
 
