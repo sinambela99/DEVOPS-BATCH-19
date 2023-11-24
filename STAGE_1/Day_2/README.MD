@@ -25,7 +25,7 @@ Subnet, Address, dan Gateway:
 
 Apa Itu Linux Shell:
 
-Bayangkan Linux sebagai sistem operasi seperti rumahmu, dan shell adalah pintu masuk atau antarmuka yang memungkinkanmu berkomunikasi dengan rumah itu. Jadi, Linux Shell adalah cara kita "berbicara" dengan sistem operasi Linux menggunakan perintah-perintah tertentu.
+Bayangkan Linux sebagai sistem operasi seperti rumah, dan shell adalah pintu masuk atau antarmuka yang memungkinkan berkomunikasi dengan rumah itu. Jadi, Linux Shell adalah cara kita "berbicara" dengan sistem operasi Linux menggunakan perintah-perintah tertentu.
 
 Contoh-contoh Linux Shell:
 
