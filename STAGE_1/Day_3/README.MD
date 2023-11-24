@@ -2,7 +2,7 @@ VCS (Version Control System) Git adalah alat yang membantu kita melacak dan meng
 Ini seperti "catatan perubahan" yang memungkinkan tim pengembang bekerja bersama dan menyimpan versi perangkat lunak pada setiap langkah.
 
 Apa itu VCS Git secara mudah dipahami?
-Bayangkan jika kamu dan teman-temanmu sedang membuat lukisan besar bersama-sama. Git ini seperti kamera yang merekam setiap langkah yang kamu ambil pada lukisan. 
+Bayangkan jika kamu dan teman-teman sedang membuat lukisan besar bersama-sama. Git ini seperti kamera yang merekam setiap langkah yang kamu ambil pada lukisan. 
 Jadi, jika ada yang ingin kembali melihat atau mengubah bagian tertentu, kalian dapat dengan mudah melihat catatan-catatan tersebut. 
 Ini membuat bekerja bersama menjadi lebih terorganisir dan memudahkan untuk berkolaborasi dalam proyek pengembangan perangkat lunak.
 
