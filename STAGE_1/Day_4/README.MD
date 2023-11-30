@@ -74,6 +74,38 @@ wc nama_file.txt
 
 ![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/manipulation%20text/sed.png?raw=true)
 
-![alt text](?raw=true)
 
-![alt text](?raw=true)
+Apa itu Network Firewall:
+
+Firewall adalah sistem keamanan jaringan yang memantau dan mengontrol lalu lintas yang masuk dan keluar dari jaringan. Ini dapat membantu melindungi sistem dari ancaman dan serangan.
+Fungsi Firewall:
+
+    Filtering: Memeriksa dan memfilter lalu lintas berdasarkan aturan tertentu.
+
+    Logging: Mencatat aktivitas lalu lintas untuk analisis keamanan.
+
+    Prevention: Mencegah akses yang tidak diinginkan atau ancaman terhadap sistem.
+
+
+ufw (Uncomplicated Firewall) pada Ubuntu:
+
+1 install ufw dan aktifkan ufw
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/1install%20ufw%20dan%20actifkan%20ufw.png?raw=true)
+
+2 sudo ufw deny untuk melarang semua akses yang masuk
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/2%20sudo%20ufw%20deny%20untuk%20melarangsemua%20akses%20yang%20masu%20.png?raw=true)
+
+3 verbose cek status
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/3%20verbose.png?raw=true)
+
+4 mengijinkan semua akses yang masuk
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/4%20mengijinkan%20semua%20akses%20yang%20masuk.png?raw=true)
+
+5 melarang semua akses untuk keluar
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/5%20melarang%20semua%20akses%20untuk%20keluar.png?raw=true)
+
+6 mengijinkan semua aksesuntuk keluar
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/6%20mengijinkan%20semua%20aksesuntuk%20keluar.png?raw=true)
+
+7. Test ssh ufw allow 22
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/ufw/test%20ssh%20ufw%20allow%2022.png?raw=true)
