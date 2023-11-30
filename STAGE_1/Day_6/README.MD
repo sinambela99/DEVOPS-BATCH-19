@@ -82,3 +82,45 @@ Cara melakukan reverse proxy sebagai berikut
 
 19 reverse proxy berhasil dibuat
 ![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/19%20reverse%20proxy%20berhasil%20dibuat.png?raw=true)
+
+Load Balancing 
+Load balancing pada server adalah konsep yang digunakan untuk membagi beban kerja (workload) di antara beberapa server agar tidak ada satu server pun yang terbebani secara berlebihan. 
+
+
+Cara melakukannya sebagai berikut
+
+1 melakukan cloning tiap tiap vm
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/1%20melakukan%20cloning%20tiap%20tiap%20vm.png?raw=true)
+
+2 install npm
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/2%20install%20npm.png?raw=true)
+
+3 coba jalankan aplikasi (test)
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/3%20coba%20jalankan%20aplikasi%20.png?raw=true)
+
+4 cek ip static vm
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/4%20cek%20ip.png?raw=true)
+
+5 aplikasi berhasil berjalan
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/5%20aplikasi%20berhasil%20berjalan.png?raw=true)
+
+6 konfigurasi load balance
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/6%20konfigurasi%20load%20balance.png?raw=true)
+
+7 cek status konfigurasi
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/7%20cek%20status%20konfigurasi.png?raw=true)
+
+8 restart sistem
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/8%20restart%20sistem.png?raw=true)
+
+9 coba jalankan alikasi
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/9%20coba%20jalankan%20alikasi.png?raw=true)
+
+10 aplikasi dapat berjalan
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/10%20aplikasi%20dapat%20berjalan.png?raw=true)
+
+11 test salah satu server mati
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/11%20test%20salah%20satu%20server%20mati.png?raw=true)
+
+12 aplkasi masih dapat berjlan
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/load%20balancer/12%20aplkasi%20masih%20dapat%20berjlan%20.png?raw=true)
