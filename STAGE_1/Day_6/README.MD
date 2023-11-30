@@ -31,17 +31,54 @@ Cara melakukan reverse proxy sebagai berikut
 
 2 melakukan cloning
 ![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/2%20melakukan%20cloning.png?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
+
+3 cek cloning file
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/3%20cek%20cloning%20file.png?raw=true)
+
+4 install nvm
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/4%20install%20nvm.png?raw=true)
+
+5 install npm
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/5%20install%20npm%20.png?raw=true)
+
+6 npm start
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/6%20npm%20start.png?raw=true)
+
+7 cek ip vm
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/7%20cek%20ip%20vm.png?raw=true)
+
+8 siap dijalankan (test awal)
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/8%20siap%20dijalankan.png?raw=true)
+
+9.Hasil
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/9%20hasil%20clone%20yang%20sudah%20di%20jalankan.png?raw=true)
+
+10 install nginx
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/10%20install%20nginx.png?raw=true)
+
+11 cek status nginx
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/11%20cek%20status%20nginx.png?raw=true)
+
+12 ubah kepemilikan file agar dapat membuat dikerktori
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/12%20ubah%20kepemilikan%20file%20agar%20dapat%20membuat%20dikerktori.png?raw=true)
+
+13 kepemilikan file sudah berubah menjadi ubuntu
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/13%20kepemilikan%20file%20sudah%20berubah%20menjadi%20ubuntu.png?raw=true)
+
+14 configuration proxy sudah dibuat
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/14%20configuration%20proxy%20sudah%20dibuat.png?raw=true)
+
+15 config pada reverse proxy sudah dibuat
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/15%20config%20pada%20reverse%20proxy%20sudah%20dibuat.png?raw=true)
+
+16 memberikan config pada local
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/16%20memberikan%20config%20pada%20local.png?raw=true)
+
+17 config pada local
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/17%20config%20pada%20local.png?raw=true)
+
+18 memberikan reload pada nginx kita karena pengubahan config
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/18%20memberikan%20reload%20pada%20nginx%20kita%20karena%20pengubahan%20config.png?raw=true)
+
+19 reverse proxy berhasil dibuat
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/reverse%20proxy/19%20reverse%20proxy%20berhasil%20dibuat.png?raw=true)
