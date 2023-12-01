@@ -22,6 +22,21 @@ cara menjalankan aplikasi sederhana pada go python dan nodejs
 ![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/go%20simple%20hello%20world/6%20eksekusi%20build.png?raw=true)
 
 
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
+
+1 cek versi python
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/python/1%20cek%20versi%20python.png?raw=true)
+
+2 install package manager python
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/python/2%20install%20package%20manager%20python.png?raw=true)
+
+3 instal flask
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/python/3%20instal%20flask.png?raw=true)
+
+4 copy script python
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/python/4%20copy%20script%20python.png?raw=true)
+
+5 jalan kan aplikasi
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/python/5%20jalan%20kan%20aplikasi.png?raw=true)
+
+6 hasilnya
+![alt text](https://github.com/sinambela99/DEVOPS-BATCH-19/blob/master/python/6%20hasilnya.png?raw=true)
